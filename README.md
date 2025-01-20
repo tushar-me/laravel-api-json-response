@@ -1,6 +1,6 @@
 # Force JSON Response For API Requests in Laravel 11
 
-```
+```php
 // bootstrap/app.php
  
 return Application::configure(basePath: dirname(__DIR__))
